@@ -1,7 +1,7 @@
 package firstProject;
 
 public class CMain {
-// new class
+// new class for test
 	private String nom;
 	private String prenom;
 	
