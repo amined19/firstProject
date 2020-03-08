@@ -5,5 +5,6 @@ public class CMain {
 	private String nom;
 	private String prenom;
 	private int age;
-	private String adresseM;	
+	private String adresse;	//  us-09
+
 }
